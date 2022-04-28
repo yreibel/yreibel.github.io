@@ -1,0 +1,41 @@
+Relevant parameters:
+
+* temp
+* weather main (clouds etc.) with icon
+* humidity
+* wind speed and degrees
+* sunrise oc sunset finns inte
+
+Weather icons:
+https://openweathermap.org/weather-conditions
+
+Suggested clothing depending on parameters:
+WEATHER[0].MAIN:Rain
+raincoat
+gloves
+boot
+
+
+WEATHER[0].MAIN:Snow
+winterjacket
+gloves
+winter-hat
+scarf
+
+/Heavy snow
++trousers
+
+A bit windy
+Windyjacket
+
+For really cold temperature -20<
+sweater
+boot
+winterjacket
+scarf
+trousers
+
+Temperature Warm 20>
+short
+t-shirt
+
